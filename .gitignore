@@ -1,0 +1,15 @@
+# Python venv (virtuelle Umgebung)
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Umgebungsvariablen-Datei
+.env
+
+# Sonstige IDE- und Systemdateien
+*.log
+.DS_Store
+.vscode/
+.idea/
